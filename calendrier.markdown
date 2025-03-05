@@ -4,7 +4,7 @@ title: Calendrier
 permalink: /calendrier/
 ---
 
-https://foss-notes.blog.nomagic.uk/2019/04/display-your-ics-calendar-on-your-website/
+https://www.npmjs.com/package/@fullcalendar/icalendar
 
 # Janvier
 
