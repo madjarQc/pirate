@@ -29,7 +29,8 @@ facebook_username: pirate
 github_username:  pirate
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
